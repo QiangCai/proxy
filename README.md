@@ -1,5 +1,5 @@
 # proxy
-This tool can proxy http://<old ip>:<old port> to http://<new ip>:<new port>.
+This tool can proxy ```http://<old ip>:<old port>``` to ```http://<new ip>:<new port>```.
 
 ```shell
 cd build/
